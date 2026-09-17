@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="extra.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="prog.cpp" />
   </ItemGroup>
