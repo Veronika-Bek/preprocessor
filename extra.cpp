@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+void extraTask()
 {
     for (int i = 1; i <= 10; i++)
     {
@@ -8,5 +8,4 @@ int main()
             std::cout << i * j << "\t";
         std::cout << "\n";
     }
-    return 0;
 }
